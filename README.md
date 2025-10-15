@@ -1,3 +1,7 @@
+The write-up of the project is [this pdf](https://github.com/JorgeVanco/Machine-Learning-Final-Project/blob/main/Memoria_proyecto_final_ml_Jorge_Vanco_Sampedro.pdf)
+
+--- 
+
 Todos los modelos entrenados se encuentran en /src/models
 
 Para limpiar los datos, los códigos se encuentran en /src/cleaning_data. Ejecutando prepare_datasets.py se crea el train-test split en la carpeta /src/data/split_data
