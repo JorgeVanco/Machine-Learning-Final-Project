@@ -1,5 +1,8 @@
 The write-up of the project is [this pdf](https://github.com/JorgeVanco/Machine-Learning-Final-Project/blob/main/Memoria_proyecto_final_ml_Jorge_Vanco_Sampedro.pdf)
 
+<img width="1362" height="1418" alt="image" src="https://github.com/user-attachments/assets/c660d380-51a3-4576-8c21-78d780c72656" />
+
+
 --- 
 
 Todos los modelos entrenados se encuentran en /src/models
